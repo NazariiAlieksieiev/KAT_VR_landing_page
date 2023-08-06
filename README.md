@@ -11,7 +11,7 @@ The landing page was developed using the following technologies:
 - Responsive Design: The landing page is designed to be fully responsive, ensuring optimal viewing and interaction across various devices and screen sizes.
 - BEM: BEM (Block, Element, Modifier) methodology for organizing and naming CSS classes. By adopting BEM, the project ensures consistency and clarity in the styling implementation.
 
-## [DEMO](https://nazariialieksieiev.github.io/kareVR_landing_page/)
+## [DEMO](https://nazariialieksieiev.github.io/KAT_VR_landing_page/)
 
 ## [Figma Mockup](https://www.figma.com/file/Blpg4iapsI7fRqJeSp6DvK/KatVR-_FE-students?node-id=1%3A370&mode=dev)
 
